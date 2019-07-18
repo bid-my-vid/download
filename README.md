@@ -39,7 +39,9 @@ BMV Inc. is changing the way skilled-trades providers initiate and facilitate th
 **Available for both iOS and Android.**
 
 ## Features
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/w3Hk5esxoTA)
+
+_Watch video_
+[<img src="https://img.youtube.com/vi/w3Hk5esxoTA/maxresdefault.jpg" width="50%">](https://youtu.be/w3Hk5esxoTA)
 
 A few of the things you can do with BidMyVid®:
 
