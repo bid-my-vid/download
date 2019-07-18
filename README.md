@@ -1,7 +1,7 @@
 <h1 align="center" style="text-color:#e20107;"> BidMyVid® </h1> <br>
 <p align="center">
   <a href="https://www.bidmyvid.com/">
-    <img alt="BidMyVid" title="BidMyVid" src="https://github.com/bid-my-vid/app/bmv_icon.png" width="450">
+    <img alt="BidMyVid" title="BidMyVid" src="https://github.com/bid-my-vid/app/blob/master/bmv_icon.png" width="450">
   </a>
 </p>
 
