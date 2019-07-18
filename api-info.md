@@ -1,3 +1,4 @@
 # API Info
-
-https://api.bidmyvid.com
+```javascript
+getApiUrl = () => https://api.bidmyvid.com
+```
