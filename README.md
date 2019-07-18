@@ -14,7 +14,7 @@
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
   </a>
 
-  <a href="https://play.google.com/store/apps/details?id=bidmyvid.com.bmvs">
+  <a href="https://play.google.com/store/apps/details?id=bidmyvid.com.bmv">
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
@@ -39,6 +39,7 @@ BMV Inc. is changing the way skilled-trades providers initiate and facilitate th
 **Available for both iOS and Android.**
 
 ## Features
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/w3Hk5esxoTA)
 
 A few of the things you can do with BidMyVid®:
 
@@ -61,7 +62,7 @@ This project follows the [all-contributors](https://github.com/bid-my-vid/all-co
 
 Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/bid-my-vid#backer)]
 
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/bid-my-vid/backers.svg?width=890"></a>
+<a href="https://opencollective.com/bid-my-vid#backers" target="_blank"><img src="https://opencollective.com/bid-my-vid/backers.svg?width=890"></a>
 
 ## Sponsors [![Sponsors on Open Collective](https://opencollective.com/bid-my-vid/sponsors/badge.svg)](#sponsors)
 
