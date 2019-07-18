@@ -17,9 +17,6 @@
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
-[Launch on Expo Android](./dist/android-index.json)
-[Launch on Expo iOS](./dist/ios-index.json)
-
 <!-- START doctoc generated TOC pexps://bid-my-vid.github.io/download/dist/ios-index.jsonlease keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
@@ -32,6 +29,10 @@
 - [Acknowledgments](#acknowledgments)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+- [Launch on Expo Android](./dist/android-index.json)
+
+- [Launch on Expo iOS](./dist/ios-index.json)
 
 ## Introduction
 
