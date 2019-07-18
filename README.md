@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Save time in your pocket. Built with React Native.
+  Saves you time. Built with React Native.
 </p>
 
 <p align="center">
