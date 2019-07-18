@@ -6,13 +6,7 @@
 </p>
 
 <p align="center">
-  Saves you time. Built with React Native.
-  <a href="exps://bid-my-vid.github.io/download/dist/ios-index.json">
-    <p>Launch on Expo iOS</p>
-  </a>
-    <a href="exps://bid-my-vid.github.io/download/dist/android-index.json">
-    <p>Launch on Expo Android</p>
-  </a>
+  Saves you time. Built with React Native. 
 </p>
 <p align="center">
   <a href="https://apps.apple.com/us/app/bidmyvid/id1276028261">
@@ -23,8 +17,10 @@
     <img alt="Get it on Google Play" title="Google Play" src="http://i.imgur.com/mtGRPuM.png" width="140">
   </a>
 </p>
+[Launch on Expo Android](./dist/android-index.json)
+[Launch on Expo iOS](./dist/ios-index.json)
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- START doctoc generated TOC pexps://bid-my-vid.github.io/download/dist/ios-index.jsonlease keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
