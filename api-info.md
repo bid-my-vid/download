@@ -1,4 +1,4 @@
 # API Info
 ```javascript
-getApiUrl = () => https://api.bidmyvid.com
-```
+getApiUrl = () =>``` [https://api.bidmyvid.com]
+
