@@ -30,9 +30,9 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-- [Launch on Expo Android](exps://./dist/android-index.json)
+- [Launch on Expo Android](exps://bid-my-vid.github.io/download/dist/android-index.json)
 
-- [Launch on Expo iOS](exps://./dist/ios-index.json)
+- [Launch on Expo iOS](exps://bid-my-vid.github.io/download/dist/ios-index.json)
 
 ## Introduction
 
