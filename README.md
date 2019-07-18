@@ -35,6 +35,8 @@
 
 - [Launch on Expo iOS](exps://bid-my-vid.github.io/download/dist/ios-index.json)
 
+[Navigate here if you can't click the two links above](https://bid-my-vid.github.io/download)
+
 ## Introduction
 
 BMV Inc. is changing the way skilled-trades providers initiate and facilitate their service by reinventing the services marketplace. By empowering clients to film and narrate their needs, which allow service providers to bid remotely and arrive more prepared, we are able to offer cost-effective lead generation in a growing market of high-cost platforms. With use of video, escrow and stepped mediation features, BMV Inc. has created simple ways that allow for confidence and swift action by all users.
