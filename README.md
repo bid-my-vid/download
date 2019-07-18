@@ -1,4 +1,4 @@
-<h1 align="center" style="text-color:#e20107;"> BidMyVid® </h1> <br>
+<h1 align="center" style="color:red;"> BidMyVid® </h1> <br>
 <p align="center">
   <a href="https://www.bidmyvid.com/">
     <img alt="BidMyVid" title="BidMyVid" src="bmv_icon.png" width="450">
