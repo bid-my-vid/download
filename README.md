@@ -8,7 +8,8 @@
 <p align="center">
   Saves you time. Built with React Native.
 </p>
-
+[Launch on Expo iOS](exps://bid-my-vid.github.io/download/dist/ios-index.json)
+[Launch on Expo Android](exps://bid-my-vid.github.io/download/dist/android-index.json)
 <p align="center">
   <a href="https://apps.apple.com/us/app/bidmyvid/id1276028261">
     <img alt="Download on the App Store" title="App Store" src="http://i.imgur.com/0n2zqHD.png" width="140">
