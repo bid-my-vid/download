@@ -1,0 +1,30 @@
+{
+  "name": "BidMyVid",
+  "displayName": "BidMyVid",
+  "expo": {
+    "privacy": "unlisted",
+    "name": "BidMyVid",
+    "slug": "bid-my-vid",
+    "sdkVersion": "42.0.0",
+    "scheme": "bidmyvid",
+    "android": {
+      "jsEngine": "hermes",
+      "package": "bidmyvid.com.bmv",
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "RECORD_AUDIO"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.bidmyvid.BMV"
+    },
+    "description": "",
+    "updates": {
+      "checkAutomatically": "ON_LOAD",
+      "enabled": true,
+      "fallbackToCacheTimeout": 60000
+    }
+  }
+}
